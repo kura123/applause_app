@@ -1,0 +1,3 @@
+rootProject.name = 'price_test'
+
+include ':app'
